@@ -1,0 +1,12 @@
+notes
+=====
+
+assumptions
+-----------
+1234 => one thousand two hundred and thirty four
+no commas to accommodate
+main app to take in a number, returns number in english
+
+
+999,999,999
+nine hundred and ninety nine million, nine hundred and ninety nine thousand, nine hundred and ninety nine
